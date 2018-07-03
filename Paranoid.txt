@@ -45,7 +45,6 @@ tagaya.hac.lp1.eshop.nintendo.net
 web-lp1.share.srv.nintendo.net
 
 ## Game Related:
-
 # Snake Pass
 snake.sumo-services.co.uk:443
 
