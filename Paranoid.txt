@@ -1,0 +1,50 @@
+aauth-lp1.ndas.srv.nintendo.net
+
+# Nintendo Account
+accounts.nintendo.com
+
+# Add Friends API
+api.accounts.nintendo.com:443
+
+app-a04.lp1.npns.srv.nintendo.net
+
+# Game downloads?
+aqua.hac.lp1.d4c.nintendo.net
+atum.hac.lp1.d4c.nintendo.net
+
+bcat-data-lp1.cdn.nintendo.net
+bcat-list-lp1.cdn.nintendo.net
+broker.lp1.npns.srv.nintendo.net
+
+dauth-lp1.ndas.srv.nintendo.net
+
+# Friends list
+e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+
+ecs-lp1.hac.shop.nintendo.net
+
+# eShop
+pushmo.hac.lp1.eshop.nintendo.net
+consumer.lp1.npns.srv.nintendo.net
+bugyo.hac.lp1.eshop.nintendo.net
+
+receive-lp1.dg.srv.nintendo.net
+
+# Error Reporting
+receive-lp1.er.srv.nintendo.net
+
+# Game updates server
+superfly.hac.lp1.d4c.nintendo.net
+tagaya.hac.lp1.eshop.nintendo.net
+
+# Facebook Image Posting
+web-lp1.share.srv.nintendo.net
+
+## Game Related:
+
+# Snake Pass
+snake.sumo-services.co.uk:443
+
+# Disgea 5
+g2785c501-lp1.s.n.srv.nintendo.net
+ngs-2785c5-live.s3.amazonaws.com
