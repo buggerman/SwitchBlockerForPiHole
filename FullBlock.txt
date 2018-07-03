@@ -6,3 +6,11 @@ nus.cdn.c.shop.nintendowifi.net
 #Switch
 sun.hac.lp1.d4c.nintendo.net
 receive-lp1.dg.srv.nintendo.net
+ecs-lp1.hac.shop.nintendo.net
+accounts.nintendo.com
+bugyo.hac.lp1.eshop.nintendo.net
+dauth-lp1.ndas.srv.nintendo.net
+receive-lp1.dg.srv.nintendo.net
+conntest.nintendowifi.net
+e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+app-a03.lp1.npns.srv.nintendo.net
