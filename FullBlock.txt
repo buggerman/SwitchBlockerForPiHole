@@ -1,8 +1,8 @@
 #Wii U & 3DS
-0.0.0.0 cbvc.cdn.nintendo.net
-0.0.0.0 nus.c.shop.nintendowifi.net
-0.0.0.0 nus.cdn.c.shop.nintendowifi.net
+cbvc.cdn.nintendo.net
+nus.c.shop.nintendowifi.net
+nus.cdn.c.shop.nintendowifi.net
 
 #Switch
-0.0.0.0 sun.hac.lp1.d4c.nintendo.net
-0.0.0.0 receive-lp1.dg.srv.nintendo.net
+sun.hac.lp1.d4c.nintendo.net
+receive-lp1.dg.srv.nintendo.net
