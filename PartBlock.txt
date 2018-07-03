@@ -1,1 +1,1 @@
-0.0.0.0 receive-lp1.dg.srv.nintendo.net
+receive-lp1.dg.srv.nintendo.net
