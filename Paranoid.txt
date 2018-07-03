@@ -1,3 +1,7 @@
+# System Update Nag/Eshop lockout
+sun.hac.lp1.d4c.nintendo.net
+beach.hac.lp1.eshop.nintendo.net
+
 aauth-lp1.ndas.srv.nintendo.net
 
 # Nintendo Account
