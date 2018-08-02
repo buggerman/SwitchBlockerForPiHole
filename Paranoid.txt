@@ -34,7 +34,6 @@ consumer.lp1.npns.srv.nintendo.net
 bugyo.hac.lp1.eshop.nintendo.net
 
 receive-lp1.dg.srv.nintendo.net
-ctest.cdn.nintendo.net
 
 # Error Reporting
 receive-lp1.er.srv.nintendo.net
