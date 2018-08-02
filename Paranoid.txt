@@ -18,6 +18,7 @@ atum.hac.lp1.d4c.nintendo.net
 
 bcat-data-lp1.cdn.nintendo.net
 bcat-list-lp1.cdn.nintendo.net
+bcat-topics-lp1.cdn.nintendo.net
 broker.lp1.npns.srv.nintendo.net
 
 dauth-lp1.ndas.srv.nintendo.net
@@ -33,6 +34,7 @@ consumer.lp1.npns.srv.nintendo.net
 bugyo.hac.lp1.eshop.nintendo.net
 
 receive-lp1.dg.srv.nintendo.net
+ctest.cdn.nintendo.net
 
 # Error Reporting
 receive-lp1.er.srv.nintendo.net
