@@ -52,3 +52,7 @@ snake.sumo-services.co.uk:443
 # Disgea 5
 g2785c501-lp1.s.n.srv.nintendo.net
 ngs-2785c5-live.s3.amazonaws.com
+
+# from itzxzac
+bcat-list-lp1.cdn.nintendo.net
+app-a03.lp1.npns.srv.nintendo.net
