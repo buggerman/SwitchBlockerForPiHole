@@ -56,4 +56,6 @@ ngs-2785c5-live.s3.amazonaws.com
 # from itzxzac
 bcat-list-lp1.cdn.nintendo.net
 app-a03.lp1.npns.srv.nintendo.net
-ctest.cdn.nintendo.net
+
+# known to block wifi access
+# ctest.cdn.nintendo.net
