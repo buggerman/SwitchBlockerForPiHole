@@ -11,10 +11,12 @@ accounts.nintendo.com
 api.accounts.nintendo.com:443
 
 app-a04.lp1.npns.srv.nintendo.net
+app-b04.lp1.npns.srv.nintendo.net
 
 # Game downloads?
 aqua.hac.lp1.d4c.nintendo.net
 atum.hac.lp1.d4c.nintendo.net
+atumn.hac.lp1.d4c.nintendo.net
 
 bcat-data-lp1.cdn.nintendo.net
 bcat-list-lp1.cdn.nintendo.net
