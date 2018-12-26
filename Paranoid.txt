@@ -11,6 +11,7 @@ accounts.nintendo.com
 api.accounts.nintendo.com:443
 
 app-a04.lp1.npns.srv.nintendo.net
+app-a05.lp1.npns.srv.nintendo.net
 app-b04.lp1.npns.srv.nintendo.net
 
 # Game downloads?
