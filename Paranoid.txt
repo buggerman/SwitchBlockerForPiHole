@@ -38,6 +38,12 @@ bugyo.hac.lp1.eshop.nintendo.net
 
 receive-lp1.dg.srv.nintendo.net
 
+# added in 7.0.0. credit: Deuxgod
+app-b01.lp1.npns.srv.nintendo.net
+dragons.hac.lp1.dragons.nintendo.net
+scsi-policy-lp1.cdn.nintendo.net
+scsi-download.lp1.scsi.srv.nintendo.net
+
 # Error Reporting
 receive-lp1.er.srv.nintendo.net
 
