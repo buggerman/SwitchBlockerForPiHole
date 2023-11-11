@@ -8,7 +8,7 @@ aauth-lp1.ndas.srv.nintendo.net
 accounts.nintendo.com
 
 # Add Friends API
-api.accounts.nintendo.com:443
+api.accounts.nintendo.com
 
 app-a04.lp1.npns.srv.nintendo.net
 app-a05.lp1.npns.srv.nintendo.net
@@ -56,7 +56,7 @@ web-lp1.share.srv.nintendo.net
 
 ## Game Related:
 # Snake Pass
-snake.sumo-services.co.uk:443
+snake.sumo-services.co.uk
 
 # Disgea 5
 g2785c501-lp1.s.n.srv.nintendo.net
